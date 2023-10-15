@@ -1,4 +1,4 @@
 
 # VENV
 .venv/
-__pycavhe__/
+__pycache__/
